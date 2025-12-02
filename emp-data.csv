@@ -1,0 +1,62 @@
+employee_id,department,region,performance_score,years_experience,satisfaction_rating
+EMP001,Finance,Africa,79.6,15,3.7
+EMP002,Marketing,Europe,61.62,11,4.4
+EMP003,Marketing,Middle East,88.82,13,3.5
+EMP004,Sales,Africa,65.09,11,3.3
+EMP005,HR,Asia Pacific,66.63,8,4.4
+EMP006,IT,Americas,74.5,5,4.0
+EMP007,Operations,Europe,55.3,2,2.9
+EMP008,Finance,Asia Pacific,90.1,20,4.6
+EMP009,Marketing,Middle East,72.4,7,3.8
+EMP010,Sales,Africa,68.0,9,4.1
+EMP011,HR,Americas,79.6,15,3.7
+EMP012,IT,Europe,61.62,11,4.4
+EMP013,Operations,Middle East,88.82,13,3.5
+EMP014,Finance,Africa,65.09,11,3.3
+EMP015,Marketing,Asia Pacific,66.63,8,4.4
+EMP016,Sales,Americas,74.5,5,4.0
+EMP017,HR,Europe,55.3,2,2.9
+EMP018,IT,Middle East,90.1,20,4.6
+EMP019,Operations,Africa,72.4,7,3.8
+EMP020,Finance,Asia Pacific,68.0,9,4.1
+EMP021,Marketing,Americas,79.6,15,3.7
+EMP022,Sales,Europe,61.62,11,4.4
+EMP023,HR,Middle East,88.82,13,3.5
+EMP024,IT,Africa,65.09,11,3.3
+EMP025,Operations,Asia Pacific,66.63,8,4.4
+EMP026,Finance,Americas,74.5,5,4.0
+EMP027,Marketing,Europe,55.3,2,2.9
+EMP028,Sales,Middle East,90.1,20,4.6
+EMP029,HR,Africa,72.4,7,3.8
+EMP030,IT,Asia Pacific,68.0,9,4.1
+EMP031,Operations,Americas,79.6,15,3.7
+EMP032,Finance,Europe,61.62,11,4.4
+EMP033,Marketing,Middle East,88.82,13,3.5
+EMP034,Sales,Africa,65.09,11,3.3
+EMP035,HR,Asia Pacific,66.63,8,4.4
+EMP036,IT,Americas,74.5,5,4.0
+EMP037,Operations,Europe,55.3,2,2.9
+EMP038,Finance,Middle East,90.1,20,4.6
+EMP039,Marketing,Africa,72.4,7,3.8
+EMP040,Sales,Asia Pacific,68.0,9,4.1
+EMP041,HR,Americas,79.6,15,3.7
+EMP042,IT,Europe,61.62,11,4.4
+EMP043,Operations,Middle East,88.82,13,3.5
+EMP044,Finance,Africa,65.09,11,3.3
+EMP045,Marketing,Asia Pacific,66.63,8,4.4
+EMP046,Sales,Americas,74.5,5,4.0
+EMP047,HR,Europe,55.3,2,2.9
+EMP048,IT,Middle East,90.1,20,4.6
+EMP049,Operations,Africa,72.4,7,3.8
+EMP050,Finance,Asia Pacific,68.0,9,4.1
+EMP051,Marketing,Americas,79.6,15,3.7
+EMP052,Sales,Europe,61.62,11,4.4
+EMP053,HR,Middle East,88.82,13,3.5
+EMP054,IT,Africa,65.09,11,3.3
+EMP055,Operations,Asia Pacific,66.63,8,4.4
+EMP056,Finance,Americas,74.5,5,4.0
+EMP057,Marketing,Europe,55.3,2,2.9
+EMP058,Sales,Middle East,90.1,20,4.6
+EMP059,HR,Africa,72.4,7,3.8
+EMP060,IT,Asia Pacific,68.0,9,4.1
+EMP100,Sales,Asia Pacific,68.0,9,4.1
