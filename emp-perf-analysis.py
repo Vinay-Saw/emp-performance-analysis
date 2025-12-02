@@ -1,4 +1,12 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os
+
+DATA_CSV = "emp-data.csv"
+PLOT_FILE = "dept_hist.png"
+HTML_FILE = "index.html"
+# 1. Load data
 if not os.path.exists(DATA_CSV):
 raise FileNotFoundError(f"Data file not found: {DATA_CSV}")
 
@@ -12,7 +20,6 @@ it_count = int((df['department'] == 'IT').sum())
 
 # 3. Print frequency
 print(f"Number of employees in IT department: {it_count}")
-
 
 # 4. Create histogram / bar chart of department distribution
 plt.figure(figsize=(10,6))
@@ -58,7 +65,6 @@ img {{ max-width: 100%; height: auto; }}
 </body>
 </html>
 """
-
 
 with open(HTML_FILE, 'w', encoding='utf-8') as f:
 f.write(html_content)
