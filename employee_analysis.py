@@ -5,7 +5,7 @@ from io import StringIO
 
 # Sample dataset (expanded to include more departments including IT)
 # Load the data
-df = pd.read_csv(emp-data.csv)
+df = pd.read_csv("emp-data.csv")
 
 # Print dataset info
 print("=" * 60)
